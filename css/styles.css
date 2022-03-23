@@ -1,0 +1,28 @@
+body {
+    background-color: whitesmoke;
+    font-size: 18px;
+    max-width: 700px;
+    margin: auto;
+    padding-top: 60px;
+}
+
+#avatar {
+    border-radius: 50%;
+    max-width: 100px;
+}
+
+#greeting {
+    display: inline;
+    margin: 30px;
+}
+
+.intro-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#intro-p {
+    margin-top: 30px;
+}
